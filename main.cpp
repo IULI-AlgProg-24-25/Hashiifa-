@@ -5,13 +5,13 @@ using namespace std;
 
 int main()
 {
-    string name;
+    string age;
 
-    cout << "Please enter your name: ";
-    cin >> name;
+    cout << "Please enter your age: ";
+    cin >> age;
     cout << endl;
 
-    cout << "Your name is: " << name;
+    cout << "Your age is: " << age;
 
     return 0;
 }
